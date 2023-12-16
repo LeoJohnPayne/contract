@@ -5,8 +5,8 @@ pragma solidity ^0.8.19;
 
 import {IERC20} from "./IERC20.sol";
 import {IERC20Metadata} from "https://github.com/LeoJohnPayne/contract/blob/main/extensions/IERC20Metadata.sol";
-import {Context} from "../../utils/Context.sol";
-import {IERC20Errors} from "../../interfaces/draft-IERC6093.sol";
+import {Context} from "https://github.com/LeoJohnPayne/contract/blob/main/utils/Context.sol";
+import {IERC20Errors} from "https://github.com/LeoJohnPayne/contract/blob/main/instances/draft-IERC6093.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.
